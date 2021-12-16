@@ -1,2 +1,2 @@
-# INA-platform
-IMPULSANDO EL DESARRO SOSTENIBLE DE LA  AGRICULTURA PERUANA
+# templa-next-tailwind-daisyui
+
